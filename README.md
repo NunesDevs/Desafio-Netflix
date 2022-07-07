@@ -1,6 +1,6 @@
 # Desafio-Netflix
 
-Desafio Dio interface da Netflix:
+Interface da Netflix:
 
 Flixplay 1.0
 
